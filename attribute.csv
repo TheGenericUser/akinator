@@ -1,0 +1,20 @@
+name,human,gender(1:male; 0:female),youtuber,actor,fictional,inventor,indian
+Shahruk Khan,1,1,0,1,0, 0,1
+Priyanka chopra,1,0,1,1,0,0,1
+Chris Hemsworth,1,1,0,1,0,0,0
+Ariana Grande,1,0,0,1,0,0,0
+CV Raman,1,1,0,0,0,1,1
+Janaki Ammal,1,0,0,0,0,1,1
+Isaac Newton,1,1,0,0,0,1,0
+Marie Curie,1,0,0,0,0,1,0
+Carry Minati,1,1,1,0,0,0,1
+Mostly Sane,1,0,1,0,0,0,1
+PewDiePie,1,1,1,0,0,0,0
+JENNA MARBLES,1,0,1,0,0,0,0
+Mogli,1,1,0,1,1,0,1
+Hiccup Horrendous Haddock,1,1,0,1,1,0,0
+Ariel,1,0,0,1,1,0,0
+Lal Bahadur Shastri,1,1,0,0,0,0,1
+Indira Gandhi,1,0,0,0,0,0,1
+Barack Obama,1,1,0,0,0,0,0
+Angela Merkel,1,0,0,0,0,0,0
