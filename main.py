@@ -10,9 +10,11 @@ clf.fit(X, y)
 
 print("Think of a character or person and answer the following questions (yes/no):")
 current_data = {}
-for feature in X.columns:
+question_data = ["human", "male", "a youtuber", "an actor", "fictional", "an inventor", "indian"]
+column_names = X.columns
+for index, feature in enumerate(question_data):
     answer = input(f"Is the character/person {feature}? ").lower()
-    current_data[feature] = True if answer == 'yes' else False
+    current_data[column_names[index]] = True if answer == 'y' else False
 
 
 current_X = pd.DataFrame([current_data])
